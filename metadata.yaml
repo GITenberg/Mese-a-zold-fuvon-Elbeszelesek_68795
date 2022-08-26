@@ -1,0 +1,31 @@
+_repo: Mese-a-zold-fuvon-Elbeszelesek_68795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: ''
+gutenberg_issued: '2022-08-20'
+identifiers:
+  gutenberg: '68795'
+language: hu
+pgterms:marc905: 20220818050017mricz
+pgterms:marc906: '1915'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Athenaeum,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mese a zöld füvön: Elbeszélések'
+url: http://www.gutenberg.org/ebooks/68795
